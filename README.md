@@ -28,8 +28,8 @@ This is a rustcli that allows user organizers to create and manage task, while u
 
 ### Prerequisites
 - Node.js >= 18.x
-- PostgreSQL
-- Docker (optional)
+- Git
+- Cargo
 
 ### Installation
 
