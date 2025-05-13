@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Buy banana",
+    "done": true
+  },
+  {
+    "description": "Buy Groceries",
+    "done": false
+  },
+  {
+    "description": "Buy Orange",
+    "done": false
+  },
+  {
+    "description": "Buy Rice",
+    "done": false
+  }
+]
