@@ -1,4 +1,4 @@
-# MyProjectName
+# todocli
 A todo_cli for A simple command-line to-do app.
 
 ## Description
